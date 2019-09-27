@@ -1,5 +1,5 @@
 {
-  "name": "kafka-node",
+  "name": "golance-kafka-node",
   "description": "Client for Apache Kafka v0.9.x, v0.10.x and v0.11.x",
   "keywords": [
     "kafka",
@@ -65,7 +65,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SOHU-Co/kafka-node.git"
+    "url": "https://github.com/sergei-stralenia/kafka-node.git"
   },
   "scripts": {
     "test:ts": "tslint --project ./types/tsconfig.json --config ./types/tslint.json && tsc --project types",
